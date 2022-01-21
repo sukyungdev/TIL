@@ -5,3 +5,4 @@ Today I Learned
 ---
 # git / github
 - [git add -A와 git add .의 차이](https://github.com/sukyungdev/TIL/blob/main/git_add.md)
+- [git branch merge하기](https://github.com/sukyungdev/TIL/blob/main/git_branch_merge.md)
