@@ -8,4 +8,4 @@ Today I Learned
 - [git branch merge하기](https://github.com/sukyungdev/TIL/blob/main/git_branch_merge.md)
 
 # HTML / CSS
-
+- [HTML tag study_1](https://github.com/sukyungdev/TIL/blob/main/html_tag_220124.md)
