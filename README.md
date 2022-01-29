@@ -9,3 +9,4 @@ Today I Learned
 
 # HTML / CSS
 - [HTML tag study_1](https://github.com/sukyungdev/TIL/blob/main/html_tag_220124.md)
+- [HTML tag study_2](https://github.com/sukyungdev/TIL/blob/main/html_tag_220129.md)
