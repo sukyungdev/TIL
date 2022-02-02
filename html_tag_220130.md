@@ -1,11 +1,14 @@
 # form 태그
 
-> 사용자에게 어떠한 input을 받기 위한 태그.
+> 사용자에게 어떠한 입력(input)을 받기 위한 태그.
 > 다양한 속성이 존재한다.
 
 - action : input값을 처리하기 위해 필요한 주소(백엔드)값을 넣는 속성
 - method : input 값을 서버에 전송할 http 메소드
   [HTML:폼(form)이해](https://www.nextree.co.kr/p8428/)
+
+추가> 
+[form 태그와 input 태그의 관계](https://github.com/sukyungdev/TIL/blob/main/form_and_input.md)
 
 ## 1. input 태그
 
