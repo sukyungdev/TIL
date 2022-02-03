@@ -89,3 +89,45 @@ label 태그를 클릭하면, 연결된 요소에 포커싱이 된다.
 <label for="name">이름</label>
 <input type="text" id="name" />
 ```
+## 2. select 태그
+
+> drop down menu 양식을 만들기 위한 태그.  
+> 자식태그 option 태그를 이용해서 drop down 메뉴를 만들 수 있다.
+
+```html
+<select>
+  <option>선택1</option>
+  <option>선택2</option>
+  <option>선택3</option>
+</select>
+```
+
+관련 속성
+
+- name : radio 태그처럼 같은 그룹이라는 것을 나타내는 속성.  
+  select 태그에만 적용해도 된다.
+- value : 서버에 어떤 선택지가 선택되었는지 전송하는 속성. option 태그에 적용.
+- multiple : 다중선택을 만들기 위한 속성. select 태그에 적용.
+
+```html
+<select name="선택지">
+  <option value="1">선택1</option>
+  <option value="2">선택2</option>
+  <option value="3">선택3</option>
+</select>
+```
+
+## 2. button 태그
+
+> button을 만들기 위한 태그.
+> type 속성을 만드시 넣어줘야 한다.
+
+```html
+<button>버튼</button>
+```
+
+type 속성 종류
+
+- button : 가장 일반적이고 많이 사용되는 속성.
+- submit : form 양식을 제출할때 사용되는 속성.
+- reset : 다시쓰기(reset)를 위한 속성.
