@@ -13,4 +13,5 @@ Today I Learned
 - [HTML tag study 03](https://github.com/sukyungdev/TIL/blob/main/html_tag_220130.md)
 - [HTML tag study 04](https://github.com/sukyungdev/TIL/blob/main/html_tag_4.md)
 - [HTML tag study 05](https://github.com/sukyungdev/TIL/blob/main/html_tag_5.md)
+- [HTML tag study 06](https://github.com/sukyungdev/TIL/blob/main/html_tag_6.md)
 - [Form 태그와 Input 태그](https://github.com/sukyungdev/TIL/blob/main/form_and_input.md)
