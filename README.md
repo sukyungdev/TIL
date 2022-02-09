@@ -15,3 +15,4 @@ Today I Learned
 - [HTML tag study 05](https://github.com/sukyungdev/TIL/blob/main/html_tag_5.md)
 - [HTML tag study 06](https://github.com/sukyungdev/TIL/blob/main/html_tag_6.md)
 - [Form 태그와 Input 태그](https://github.com/sukyungdev/TIL/blob/main/form_and_input.md)
+- [WAI-ARIA and alt](https://github.com/sukyungdev/TIL/blob/main/WAI-ARIA%20and%20alt.md)
