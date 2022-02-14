@@ -16,3 +16,4 @@ Today I Learned
 - [HTML tag study 06](https://github.com/sukyungdev/TIL/blob/main/html_tag_6.md)
 - [Form tag and Input tag](https://github.com/sukyungdev/TIL/blob/main/form_and_input.md)
 - [WAI-ARIA and alt](https://github.com/sukyungdev/TIL/blob/main/WAI-ARIA%20and%20alt.md)
+- [table tag](https://github.com/sukyungdev/TIL/blob/main/table%20tag.md)
