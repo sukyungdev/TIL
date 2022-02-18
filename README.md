@@ -17,3 +17,4 @@ Today I Learned
 - [Form tag and Input tag](https://github.com/sukyungdev/TIL/blob/main/form_and_input.md)
 - [WAI-ARIA and alt](https://github.com/sukyungdev/TIL/blob/main/WAI-ARIA%20and%20alt.md)
 - [table tag](https://github.com/sukyungdev/TIL/blob/main/table%20tag.md)
+- [semantc tag and sectioning elements](https://github.com/sukyungdev/TIL/blob/main/semantic%20tag%20and%20sectioning%20elements.md)
