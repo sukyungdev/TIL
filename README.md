@@ -7,7 +7,7 @@ Today I Learned
 - [git add -A와 git add .의 차이](https://github.com/sukyungdev/TIL/blob/main/git_github/git_add.md)
 - [git branch merge하기](https://github.com/sukyungdev/TIL/blob/main/git_github/git_branch_merge.md)
 
-# HTML / CSS
+# HTML
 - [HTML tag study 01](https://github.com/sukyungdev/TIL/blob/main/html_tag_220124.md)
 - [HTML tag study 02](https://github.com/sukyungdev/TIL/blob/main/html_tag_220129.md)
 - [HTML tag study 03](https://github.com/sukyungdev/TIL/blob/main/html_tag_220130.md)
@@ -18,3 +18,7 @@ Today I Learned
 - [WAI-ARIA and alt](https://github.com/sukyungdev/TIL/blob/main/WAI-ARIA%20and%20alt.md)
 - [table tag](https://github.com/sukyungdev/TIL/blob/main/table%20tag.md)
 - [semantc tag and sectioning elements](https://github.com/sukyungdev/TIL/blob/main/semantic%20tag%20and%20sectioning%20elements.md)
+
+## CSS
+- [CSS Selector_01](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Selector_01.md)
+- [CSS Selector_02](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Selector_02.md)
