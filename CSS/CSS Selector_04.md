@@ -34,7 +34,7 @@ a:hover {
 
 [CSS :hover Selector](https://www.w3schools.com/cssref/sel_hover.asp)
 
-<img src="" alt="" width="300px"/>
+<img src="https://user-images.githubusercontent.com/96860670/155544313-ae152456-366f-4a41-b0e1-729b21213763.gif" alt="" width="500px" />. 
 
 ## :active
 
@@ -50,7 +50,7 @@ a:active {
 :active는 :hover 가상 클래스가 있는 경우 :hover의 뒤에 와야 한다.  
 [CSS :active Selector](https://www.w3schools.com/cssref/sel_active.asp)
 
-> <img src="" alt="" width="300px"/>
+<img src="https://user-images.githubusercontent.com/96860670/155544934-005a8ebe-08b4-44ec-ae65-cf7a2352ac16.gif" alt="" width="500px" />. 
 
 ## :focus
 
@@ -66,7 +66,7 @@ input:focus {
 :focus는 키보드 입력이나 기타 사용자 입력이 가능한 요소에만 적용된다.  
 [CSS :focus Selector](https://www.w3schools.com/cssref/sel_focus.asp)
 
-<img src="" alt="" width="300px"/>
+<img src="https://user-images.githubusercontent.com/96860670/155545454-56e557e8-9a10-4d67-83fe-2d214c8eba6d.gif" alt="" width="500px" />. 
 
 ## 참고자료 (reference)
 
