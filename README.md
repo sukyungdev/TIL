@@ -14,8 +14,8 @@ Today I Learned
 - [HTML tag study 04](https://github.com/sukyungdev/TIL/blob/main/HTML/html_tag_04.md)
 - [HTML tag study 05](https://github.com/sukyungdev/TIL/blob/main/HTML/html_tag_05.md)
 - [HTML tag study 06](https://github.com/sukyungdev/TIL/blob/main/HTML/html_tag_06.md)
-- [Form tag and Input tag](https://github.com/sukyungdev/TIL/blob/main/form_and_input.md)
-- [WAI-ARIA and alt](https://github.com/sukyungdev/TIL/blob/main/WAI-ARIA%20and%20alt.md)
+- [Form tag and Input tag](https://github.com/sukyungdev/TIL/blob/main/HTML/form_and_input.md)
+- [WAI-ARIA and alt](https://github.com/sukyungdev/TIL/blob/main/HTML/WAI-ARIA%20and%20alt.md)
 - [table tag](https://github.com/sukyungdev/TIL/blob/main/table%20tag.md)
 - [semantc tag and sectioning elements](https://github.com/sukyungdev/TIL/blob/main/semantic%20tag%20and%20sectioning%20elements.md)
 
