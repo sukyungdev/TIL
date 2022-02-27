@@ -20,8 +20,8 @@ Today I Learned
 - [semantc tag and sectioning elements](https://github.com/sukyungdev/TIL/blob/main/semantic%20tag%20and%20sectioning%20elements.md)
 
 ## CSS
-- [CSS Selector_01](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Selector_01.md)
-- [CSS Selector_02](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Selector_02.md)
+- [CSS Selector 01](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Selector_01.md)
+- [CSS Selector 02](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Selector_02.md)
 - [CSS Selector 03](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Selector_03.md)
 - [CSS Selector 04](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Selector_04.md)
 - [CSS Selector 05](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Selector_05.md)
