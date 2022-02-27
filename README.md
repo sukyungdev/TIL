@@ -24,3 +24,4 @@ Today I Learned
 - [CSS Selector_02](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Selector_02.md)
 - [CSS Selector 03](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Selector_03.md)
 - [CSS Selector 04](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Selector_04.md)
+- [CSS Selector 05](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Selector_05.md)
