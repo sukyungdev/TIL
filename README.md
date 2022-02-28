@@ -16,8 +16,8 @@ Today I Learned
 - [HTML tag study 06](https://github.com/sukyungdev/TIL/blob/main/HTML/html_tag_06.md)
 - [Form tag and Input tag](https://github.com/sukyungdev/TIL/blob/main/HTML/form_and_input.md)
 - [WAI-ARIA and alt](https://github.com/sukyungdev/TIL/blob/main/HTML/WAI-ARIA%20and%20alt.md)
-- [table tag](https://github.com/sukyungdev/TIL/blob/main/table%20tag.md)
-- [semantc tag and sectioning elements](https://github.com/sukyungdev/TIL/blob/main/semantic%20tag%20and%20sectioning%20elements.md)
+- [table tag](https://github.com/sukyungdev/TIL/blob/main/HTML/table%20tag.md)
+- [semantc tag and sectioning elements](https://github.com/sukyungdev/TIL/blob/main/HTML/semantic%20tag%20and%20sectioning%20elements.md)
 
 ## CSS
 - [CSS Selector 01](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Selector_01.md)
