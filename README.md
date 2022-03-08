@@ -28,3 +28,4 @@ Today I Learned
 - [CSS Box Model](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Box%20Model.md)
 - [CSS Box Sizing](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Box%20Sizing.md)
 - [CSS Box Display](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Box%20Display.md)
+- [Float](https://github.com/sukyungdev/TIL/blob/main/CSS/Float.md)
