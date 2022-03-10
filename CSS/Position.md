@@ -15,17 +15,7 @@ HTML 모든 요소의 기본 position 값.
 ## relative
 
 자신의 본래 위치를 기준점으로 하여 배치한다.  
-float와 비슷한 상태가 되나, 다른 요소에 영향을 끼치지 않음.(레이아웃 붕괴 없음)
-
-```css
-.box {
-  width: 200px;
-  height: 200px;
-  position: relative;
-  top: 50px;
-  background-color: pink;
-}
-```
+float와 비슷한 상태가 되나, 다른 요소에 영향을 끼치지 않음. (레이아웃 붕괴 없음)
 
 ## absolute
 
@@ -46,7 +36,8 @@ float와 비슷한 상태가 되나, 다른 요소에 영향을 끼치지 않음
 absolute와 동일한 현상이 일어난다.
 
 viewport란?
-브라우저 창의 전체 크기
+브라우저 창의 전체 크기  
+[Viewport 설정이 필요한 이유](https://velog.io/@huurray/Viewport-%EC%84%A4%EC%A0%95%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0)
 
 ```css
 .box {
@@ -58,7 +49,12 @@ viewport란?
 }
 ```
 
+<img src="https://user-images.githubusercontent.com/96860670/157706174-512a9449-75e4-47a6-b2a0-91a63dbc7473.png" alt="" width="300px" />
+
 ## sticky
+
+평소에는 static의 상태.  
+스크롤의 위치가 어떤 기준점에 다다르면 position: fixed; 처럼 위치하는 값
 
 > 현재 sticky의 경우 지원하는 브라우저가 많지 않다.  
 > [Can I use sticky?](https://caniuse.com/?search=sticky)
@@ -71,11 +67,14 @@ position type 설정 후(기준점 설정), 요소의 위치를 옮기는 속성
 
 ## z-index
 
-position이 적용된 요소의 수직 레벨을 나타내는 속성.(z축)
+position이 적용된 요소의 수직 레벨을 나타내는 속성.(z축)  
+[Using z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index)
 
 ## 참고자료 (reference)
 
-[CSS의 position 속성으로 요소 배치하기](https://www.daleseo.com/css-position/)
+[Viewport 설정이 필요한 이유](https://velog.io/@huurray/Viewport-%EC%84%A4%EC%A0%95%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0)  
+[CSS의 position 속성으로 요소 배치하기](https://www.daleseo.com/css-position/)  
+[Using z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index)
 
 ---
 
