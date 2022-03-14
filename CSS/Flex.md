@@ -65,6 +65,11 @@ flex-direction에 따라서 방향이 달라진다.
 }
 ```
 
+## 참고자료 (reference)
+
+[이번에야말로 CSS Flex를 익혀보자](https://studiomeal.com/archives/197)  
+[flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176#ch2)
+
 ---
 
 > 틀린점, 오타에 대한 것은 언제든지 알려주세요!
