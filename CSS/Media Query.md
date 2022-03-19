@@ -37,6 +37,60 @@ HTML 태그.
 }
 ```
 
+### example
+
+HTML Code
+```html
+<body>
+    <div class="box"></div>
+</body>
+```
+
+CSS Code
+```css
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  background-color: #fd9ac8;
+}
+
+.box::after {
+  display: block;
+  content: 'Desktop';
+  font-size: 50px;
+}
+
+@media screen and (max-width:768px) {
+  .box {
+    background-color: #d365ff;
+  }
+
+  .box::after {
+    content: 'tablet';
+  }
+}
+
+@media screen and (max-width:375px) {
+  .box {
+    background-color: #558ffa;
+  }
+
+  .box::after {
+    content: 'moblie';
+  }
+}
+
+```
+<img src="https://user-images.githubusercontent.com/96860670/159125328-b4f66191-b749-4b94-ab7e-e69626d7d97e.gif" alt="" width="450px" />
+
 ## 참고자료 (reference)
 
 [반응형 웹 디자인](https://business.adobe.com/kr/glossary/responsive-web-design.html)  
