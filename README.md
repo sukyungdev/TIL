@@ -31,3 +31,4 @@ Today I Learned
 - [Float](https://github.com/sukyungdev/TIL/blob/main/CSS/Float.md)
 - [Position](https://github.com/sukyungdev/TIL/blob/main/CSS/Position.md)
 - [Flex](https://github.com/sukyungdev/TIL/blob/main/CSS/Flex.md)
+- [Media Query](https://github.com/sukyungdev/TIL/blob/main/CSS/Media%20Query.md)
