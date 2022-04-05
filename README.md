@@ -32,4 +32,5 @@ Today I Learned
 - [Position](https://github.com/sukyungdev/TIL/blob/main/CSS/Position.md)
 - [Flex](https://github.com/sukyungdev/TIL/blob/main/CSS/Flex.md)
 - [Media Query](https://github.com/sukyungdev/TIL/blob/main/CSS/Media%20Query.md)
-- [Css Transition](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Transition.md)
+- [CSS Transition](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Transition.md)
+- [CSS Animation](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Animation.md)
