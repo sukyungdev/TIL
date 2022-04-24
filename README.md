@@ -34,3 +34,6 @@ Today I Learned
 - [Media Query](https://github.com/sukyungdev/TIL/blob/main/CSS/Media%20Query.md)
 - [CSS Transition](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Transition.md)
 - [CSS Animation](https://github.com/sukyungdev/TIL/blob/main/CSS/CSS%20Animation.md)
+
+## JavaScript
+- [JavaScript variable](https://github.com/sukyungdev/TIL/blob/main/JavaScript/JavaScript%20variable.md)
