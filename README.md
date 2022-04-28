@@ -37,3 +37,4 @@ Today I Learned
 
 ## JavaScript
 - [JavaScript variable](https://github.com/sukyungdev/TIL/blob/main/JavaScript/JavaScript%20variable.md)
+- [JavaScript array](https://github.com/sukyungdev/TIL/blob/main/JavaScript/JavaScript%20array.md)
