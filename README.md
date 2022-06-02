@@ -40,3 +40,4 @@ Today I Learned
 - [JavaScript variable](https://github.com/sukyungdev/TIL/blob/main/JavaScript/JavaScript%20variable.md)
 - [JavaScript array](https://github.com/sukyungdev/TIL/blob/main/JavaScript/JavaScript%20array.md)
 - [JavaScript function](https://github.com/sukyungdev/TIL/blob/main/JavaScript/JavaScript%20function.md)
+- [JavaScript Object](https://github.com/sukyungdev/TIL/blob/main/JavaScript/JavaScript%20Object.md)
