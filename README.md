@@ -41,3 +41,4 @@ Today I Learned
 - [JavaScript array](https://github.com/sukyungdev/TIL/blob/main/JavaScript/JavaScript%20array.md)
 - [JavaScript function](https://github.com/sukyungdev/TIL/blob/main/JavaScript/JavaScript%20function.md)
 - [JavaScript Object](https://github.com/sukyungdev/TIL/blob/main/JavaScript/JavaScript%20Object.md)
+- [JavaScript ES6 new feature01](https://github.com/sukyungdev/TIL/blob/main/JavaScript/JavaScript%20ES6%20new%20feature01.md)
