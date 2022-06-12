@@ -1,4 +1,4 @@
-# CSS Flex_01
+# CSS Flex
 
 Flex란?
 레이아웃 배치, 정렬을 위해 고안되었다.
@@ -22,7 +22,7 @@ flex를 사용하기 위해 먼저 선언해야 하는 속성.
 }
 ```
 
-### flex-direction: row;
+### flex-direction
 
 어느 방향으로 정렬을 할지 정하는 속성.
 
@@ -62,6 +62,85 @@ flex-direction에 따라서 방향이 달라진다.
   display: flex;
   flex-direction: row; /* 가로 방향 */
   flex-wrap: nowrap; /*한 줄로 배치*/
+}
+```
+
+### flex-grow
+
+flex를 선언했을 때 공간이 남은 경우, 남은 공간을 어떻게 채울지 비율을 설정하는 속성.
+
+> Flexbox에 빈공간이 있을경우, flex-grow를 이용하면 공간을 채울 수 있다.
+
+- flex-grow를 선언하지 않은 경우
+
+  <img src="https://user-images.githubusercontent.com/96860670/173233724-253f432c-727b-4754-9f81-c4901986f5cb.png" alt="image" width="300px">
+
+- flex-grow를 선언한 경우
+
+  <img src="https://user-images.githubusercontent.com/96860670/173233803-45ab7701-5bd4-4911-b556-a58e9a4ce8b8.png" alt="image" width="300px">
+
+```css
+.container div:first-child {
+  background-color: blue;
+  flex-grow: 1; /* 원하는 요소에 flex-grow 설정*/
+}
+```
+
+- 각각 요소에 선언 가능
+
+  <img src="https://user-images.githubusercontent.com/96860670/173233851-77917f85-36ca-485b-a1f7-9c2d0dd93baf.png" alt="image" width="300px">
+
+```css
+.container div:first-child {
+  background-color: blue;
+  flex-grow: 2;
+}
+
+.container div:last-child {
+  background-color: green;
+  flex-grow: 1;
+}
+```
+
+### flex-shrink
+
+flex를 선언했을 때 공간이 부족한 경우, 요소의 비율 축소와 관련된 속성.
+
+- flex-shrink를 선언하지 않고 비율이 축소될 경우, 동일한 비율로 요소가 축소된다.
+
+  <img src="https://user-images.githubusercontent.com/96860670/173234181-64d19fab-c15f-4d31-9d90-9983c2f58659.png" alt="image" width="300px">
+
+```css
+.container div:first-child {
+  background-color: skyblue;
+  /* flex-shrink: 2; */
+}
+```
+
+- flex-shrink를 선언한 경우, 요소가 다른 비율로 축소된다.
+
+    <img src="https://user-images.githubusercontent.com/96860670/173234197-69fbf089-ce0f-4a5e-8a02-79f58177d973.png" alt="image" width="300px">
+
+  ```css
+  .container div:first-child {
+    background-color: skyblue;
+    flex-shrink: 2;
+  }
+  ```
+
+- 각각 요소에 선언 가능.
+
+  <img src="https://user-images.githubusercontent.com/96860670/173234331-92a014ab-76aa-43d0-9019-38dd6131dab0.png" alt="image" width="300px">
+
+```css
+.container div:first-child {
+  background-color: skyblue;
+  flex-shrink: 2;
+}
+
+.container div:nth-child(2) {
+  background-color: rgb(255, 181, 213);
+  flex-shrink: 2;
 }
 ```
 
