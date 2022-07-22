@@ -91,7 +91,7 @@ console.log(a); //[ 'candy', 'cake', 'Chocolate', 'strawberry' ]
 
 > 끝 인덱스는 생략 가능.
 
-### .slice()
+### .splice()
 
 slice("시작인덱스", "개수").  
 시작 인덱스에서 개수 만큼의 요소를 제거하는 함수.  
