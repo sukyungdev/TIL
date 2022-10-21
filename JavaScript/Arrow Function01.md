@@ -105,10 +105,23 @@ let num = () => 5;
 console.log(num());
 ```
 
+> 2022.10.21 예시추가
+
+```javascript
+elements.map((element) => {
+    return element.length;
+});
+
+// 위의 함수와 동일
+elements.map((element) => element.length);
+```
+
 ## 참고자료 (reference)
 
 [화살표 함수 기본](https://ko.javascript.info/arrow-functions-basics)  
-[[ES6강좌] 2강 화살표함수(Arrow Function) - 오쌤의 니가스터디](https://ossam5.tistory.com/158)
+[[ES6강좌] 2강 화살표함수(Arrow Function) - 오쌤의 니가스터디](https://ossam5.tistory.com/158)  
+[Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)  
+[화살표 함수](https://poiemaweb.com/es6-arrow-function)
 
 ---
 
