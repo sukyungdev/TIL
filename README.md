@@ -45,6 +45,7 @@ Today I Learned
 - [JavaScript Arrow Function01](https://github.com/sukyungdev/TIL/blob/main/JavaScript/Arrow%20Function01.md)
 - [JavaScript Callback Function](https://github.com/sukyungdev/TIL/blob/main/JavaScript/Callback%20Function.md)
 - [JavaScript This01](https://github.com/sukyungdev/TIL/blob/main/JavaScript/JavaScript%20this01.md)
+- [Promise](https://github.com/sukyungdev/TIL/blob/main/JavaScript/Promise.md)
 
 ## React
 - [React Hooks - useState](https://github.com/sukyungdev/TIL/blob/main/React/useState.md)
